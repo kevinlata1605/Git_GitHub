@@ -14,6 +14,11 @@
         Ahora estoy modificando cambiosen el mismo parrafo para asi 
         poder ver los cambios en la master.
     </p>
+
+    <p>
+        Aqui estoy agregando otro parrafo para poder 
+        enviarlo a la rama secundaria.
+    </p>
     <?php include_once "./inc/footer.php"; ?>
 </body>
 
