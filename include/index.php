@@ -10,6 +10,7 @@
 <body>
     <h1>RAMA PRINCIPAL CURSO PHP</h1>
     <?php include_once "./inc/nav.php"; ?>
+    <p>Agregando un parrafo a la rama de actualización.</p>
     <?php include_once "./inc/footer.php"; ?>
 </body>
 
