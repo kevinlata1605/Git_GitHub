@@ -1,3 +1,3 @@
 <footer>
-        Copyricht 2023 KL
+        Copyright 2024 KL
     </footer>
