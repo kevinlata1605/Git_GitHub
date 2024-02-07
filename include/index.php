@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1>PAGINA PRINCIPAL</h1>
+    <h1>RAMA PRINCIPAL</h1>
     <?php include_once "./inc/nav.php"; ?>
     <?php include_once "./inc/footer.php"; ?>
 </body>
