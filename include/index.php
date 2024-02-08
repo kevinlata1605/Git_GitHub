@@ -9,6 +9,7 @@
 
 <body>
     <h1>RAMA PRINCIPAL CURSO PHP</h1>
+    <h2>Autor Kevin Lata</h2>
     <?php include_once "./inc/nav.php"; ?>
     <p>Agregando un parrafo a la rama de actualización.
         Ahora estoy modificando cambiosen el mismo parrafo para asi 
