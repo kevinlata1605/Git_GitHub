@@ -1,3 +1,3 @@
 <footer>
-        Copyright 2024 KL
+        <b> Copyright 2024 Kevin Lata </b>
     </footer>

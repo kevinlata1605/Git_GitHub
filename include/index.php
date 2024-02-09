@@ -35,6 +35,7 @@
         Aqui estoy agregando otro parrafo para poder
         enviarlo a la rama secundaria.
     </p>
+    <br>
     <?php include_once "./inc/footer.php"; ?>
 </body>
 
