@@ -26,7 +26,9 @@
     <br>
     <p>Agregando un parrafo a la rama de actualización.
         Ahora estoy modificando cambiosen el mismo parrafo para asi
-        poder ver los cambios en la master.
+        poder ver los cambios en la master. <br>
+
+        Me presento soy el Ingeniero en Sistemas de Información Kevin Lata Jácome, tengo 24 años de edad.
     </p>
     <br>
     <p>
