@@ -18,11 +18,11 @@
 </head>
 
 <body>
-    <h1>RAMA PRINCIPAL CURSO PHP</h1>
+    <?php include_once "./inc/nav.php"; ?>
+    <br>
+    <h1><center>RAMA PRINCIPAL CURSO PHP </center></h1>
     <br>
     <h2>Autor Kevin Lata - Editado desde GitHub</h2>
-    <br>
-    <?php include_once "./inc/nav.php"; ?>
     <br>
     <p>Agregando un parrafo a la rama de actualización.
         Ahora estoy modificando cambiosen el mismo parrafo para asi
