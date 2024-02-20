@@ -29,6 +29,7 @@
         poder ver los cambios en la master. <br>
 
         Me presento soy el Ingeniero en Sistemas de Información Kevin Lata Jácome, tengo 24 años de edad.
+        Parrafo No terminado xD
     </p>
     <br>
     <p>
